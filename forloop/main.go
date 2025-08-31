@@ -1,4 +1,4 @@
-package forexample
+package forloop
 
 import "fmt"
 
