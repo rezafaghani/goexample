@@ -2,6 +2,7 @@ package main
 
 import (
 	"goexample/constant"
+	"goexample/forexample"
 	"goexample/hello"
 	"goexample/values"
 	"goexample/variables"
@@ -13,5 +14,6 @@ func main() {
 	values.Run()
 	variables.Run()
 	constant.Run()
+	forexample.Run()
 	// call other samples here
 }
